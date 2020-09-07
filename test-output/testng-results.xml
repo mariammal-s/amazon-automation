@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Amazon" duration-ms="77426" started-at="2020-09-06T15:09:58Z" finished-at="2020-09-06T15:11:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="77426" started-at="2020-09-06T15:09:58Z" finished-at="2020-09-06T15:11:15Z">
+      <class name="com.amazon.qa.test.AmazonTest">
+        <test-method status="PASS" signature="initialSetUp()[pri:0, instance:com.amazon.qa.test.AmazonTest@794cb805]" name="initialSetUp" is-config="true" duration-ms="5759" started-at="2020-09-06T15:09:58Z" finished-at="2020-09-06T15:10:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method status="PASS" signature="homePageNavigation()[pri:1, instance:com.amazon.qa.test.AmazonTest@794cb805]" name="homePageNavigation" duration-ms="10406" started-at="2020-09-06T15:10:03Z" finished-at="2020-09-06T15:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageNavigation -->
+        <test-method status="PASS" signature="addProductToCart()[pri:2, instance:com.amazon.qa.test.AmazonTest@794cb805]" name="addProductToCart" duration-ms="28763" started-at="2020-09-06T15:10:14Z" finished-at="2020-09-06T15:10:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+        <test-method status="PASS" signature="productFromMenu()[pri:3, instance:com.amazon.qa.test.AmazonTest@794cb805]" name="productFromMenu" duration-ms="26763" started-at="2020-09-06T15:10:42Z" finished-at="2020-09-06T15:11:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productFromMenu -->
+        <test-method status="PASS" signature="amazonLogoTest()[pri:5, instance:com.amazon.qa.test.AmazonTest@794cb805]" name="amazonLogoTest" duration-ms="4927" started-at="2020-09-06T15:11:09Z" finished-at="2020-09-06T15:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.qa.test.AmazonTest@794cb805]" name="tearDown" is-config="true" duration-ms="759" started-at="2020-09-06T15:11:14Z" finished-at="2020-09-06T15:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.qa.test.AmazonTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Amazon -->
+</testng-results>
